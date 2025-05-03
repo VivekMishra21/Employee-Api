@@ -1,4 +1,4 @@
-Employee Management System - Spring Boot API
+#Employee Management System - Spring Boot API
 This project is an Employee Management System API built using Spring Boot and connected to a MySQL database. It allows you to perform CRUD (Create, Read, Update, Delete) operations on employee records, making it ideal for managing employee information in an organization.
 
 Features
@@ -36,7 +36,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/Employee-Api.git
+git clone https://github.com/VivekMishra21/Employee-Api.git
 cd employee-api
 Set up MySQL:
 
@@ -56,8 +56,8 @@ properties
 Copy
 Edit
 spring.datasource.url=jdbc:mysql://localhost:3306/employeeapi
-spring.datasource.username=your username
-spring.datasource.password=your password
+spring.datasource.username=yourusername
+spring.datasource.password=yourpassword
 spring.jpa.hibernate.ddl-auto=update
 Build and run the application:
 
