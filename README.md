@@ -3,6 +3,14 @@
 
 This project is an Employee Management System API built using Spring Boot and connected to a MySQL database. It allows you to perform CRUD (Create, Read, Update, Delete) operations on employee records, making it ideal for managing employee information in an organization.
 
+## 📸 Screenshots
+
+![Screenshot 1](Screenshot%202025-05-03%20152359.png)
+
+
+![Screenshot 2](Screenshot%202025-05-03%20152901.png)
+
+
 Features
 Create: Add new employee records.
 
